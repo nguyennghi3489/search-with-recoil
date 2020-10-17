@@ -1,0 +1,25 @@
+.resultContainer {
+  height: 700px;
+  overflow: auto;
+}
+
+.hightlight {
+  background-color: rgba(234, 148, 0, 0.3);
+}
+
+.resultItem {
+  padding: 8px 32px;
+  background-color: #d4d4d4;
+  border-bottom: 1px solid #bbb;
+  text-align: left;
+}
+
+.title {
+  font-size: 18px;
+}
+
+.info {
+  margin-top: 4px;
+  display: flex;
+  justify-content: space-between;
+}

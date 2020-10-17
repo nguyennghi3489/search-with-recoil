@@ -1,0 +1,8 @@
+.container {
+  max-width: 680px;
+  margin: 32px auto;
+}
+
+.searchInput {
+  min-width: 160px;
+}
