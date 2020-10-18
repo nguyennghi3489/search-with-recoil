@@ -7,7 +7,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "@types/lodash": "^4.14.162",
-    "eslint": "^7.11.0",
+    "eslint": "^6.6.0",
     "lodash": "^4.17.20",
     "moment": "^2.29.1",
     "react": "^16.14.0",
